@@ -1,0 +1,8 @@
+1:24 reduction
+Rated speed 252 RPM
+No-load speed 290 RPM
+9.5 kgf-cm = .932 N*m (each) rated; burst up to ~30kgf-cm = 2.94 N*m
+
+No-load current <650 mA
+Rated current <2300 mA
+24VDC brushed
