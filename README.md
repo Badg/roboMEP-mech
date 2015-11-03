@@ -10,11 +10,11 @@ Semi-monocoque design with front and rear load-bearing accessory frames.
 
 The full lower assembly:
 
-![Lower assembly](doc/snapshots/full-topless.png)
+![Lower assembly](doc/snapshots/full-topless.PNG)
 
 Shown with transparent skin:
 
-![Lower assembly, transparent](doc/snapshots/full-transparent.png)
+![Lower assembly, transparent](doc/snapshots/full-transparent.PNG)
 
 Orthographic+isometric projection:
 
@@ -22,7 +22,7 @@ Orthographic+isometric projection:
 
 And exploded -- note the low part count and simple construction:
 
-![Lower assembly exploded](doc/snapshots/full-exploded.png)
+![Lower assembly exploded](doc/snapshots/full-exploded.PNG)
 
 ## Accessory frames
 
@@ -30,11 +30,11 @@ Front and rear have easily-accessible load-bearing hole patterns for accessories
 
 The front frame and front-facing hardmounts:
 
-![Primary frame, installed](doc/snapshots/primary_frame-installed.png)
+![Primary frame, installed](doc/snapshots/primary_frame-installed.PNG)
 
 Close-up of the front frame, removed from the robot assembly:
 
-![Primary frame, standalone](doc/snapshots/primary_frame-standalone.png)
+![Primary frame, standalone](doc/snapshots/primary_frame-standalone.PNG)
 
 ## Highly modular design
 
@@ -42,12 +42,12 @@ All major subsystems can be iterated with at most two adapter part redesigns.
 
 The full motive subsystem, cutaway:
 
-![Drive assy, cutaway](doc/snapshots/drive_assy-cutaway.png)
+![Drive assy, cutaway](doc/snapshots/drive_assy-cutaway.PNG)
 
 Show with the swappable motor module highlighted:
 
-![Drive assy, motor highlight](doc/snapshots/drive_assy-motor_highlight.png)
+![Drive assy, motor highlight](doc/snapshots/drive_assy-motor_highlight.PNG)
 
 And with the swappable wheel module highlighted:
 
-![Drive assy, wheel highlight](doc/snapshots/drive_assy-wheel_highlight.png)
+![Drive assy, wheel highlight](doc/snapshots/drive_assy-wheel_highlight.PNG)
